@@ -1,2 +1,2 @@
 # econometrics-projects
-It contains projects in Econometrics using RStudio.
+The folder contains projects in the field of Econometrics, including generalized linear models and time series analysis.
