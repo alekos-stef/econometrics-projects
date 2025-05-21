@@ -1,4 +1,3 @@
-# CASE PROJECT COURSERA - ECONOMETRICS: METHODS AND APPLICATIONS
 
 # model with constant (m = 2 restrictions) vs full model - critical value=5.991
 LR_full <- -2*(-152.763 - (-134.178)) ; LR_full
